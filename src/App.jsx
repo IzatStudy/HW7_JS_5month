@@ -1,7 +1,7 @@
 import { BrowserRouter as Router } from "react-router-dom";
 import Header from "./components/Header"
 import { Layout } from "antd"
-import AppRoutes from "./routes";
+import AppRoutes from "../src/routes";
 import "./styles/global.css"
 
 const { Content, Footer } = Layout;
