@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background: #eee;
+}
+.links {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.login span {
+    margin: 10px;
+}

@@ -1,0 +1,8 @@
+.questCard {
+    width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    & Button {
+        margin-top: 20px;
+    }
+}
